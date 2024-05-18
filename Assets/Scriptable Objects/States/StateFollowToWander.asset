@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ea4db1534e463548ac28166bc2f2acc, type: 3}
+  m_Name: StateFollowToWander
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: aeb39e72068399e418be21aa8f69d554, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: f0887c967e525144390c9d0428b36b20, type: 2}
+    TrueState: {fileID: 11400000, guid: 6882e7665a708ba4fa4cf67db3b2d01b, type: 2}
+    FalseState: {fileID: 11400000, guid: 7caf4d2121f7a0146b954888bb7af105, type: 2}

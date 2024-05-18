@@ -1,0 +1,2024 @@
+fileFormatVersion: 2
+guid: dd50373baedc0e446877e339e8f6fa66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7865826809568178601
+    second: road&lamps - Copy_0
+  - first:
+      213: -3290566838369025421
+    second: road&lamps - Copy_1
+  - first:
+      213: -2306667350246235862
+    second: road&lamps - Copy_2
+  - first:
+      213: 879609939690331277
+    second: road&lamps - Copy_3
+  - first:
+      213: 7425500138315293359
+    second: road&lamps - Copy_4
+  - first:
+      213: -2563458451107625705
+    second: road&lamps - Copy_5
+  - first:
+      213: 3982693237623501061
+    second: road&lamps - Copy_6
+  - first:
+      213: 756235711703971241
+    second: road&lamps - Copy_7
+  - first:
+      213: -2225621292301889183
+    second: road&lamps - Copy_8
+  - first:
+      213: -4180940784183584620
+    second: road&lamps - Copy_9
+  - first:
+      213: -3347866998083691507
+    second: road&lamps - Copy_10
+  - first:
+      213: 3196261315163263616
+    second: road&lamps - Copy_11
+  - first:
+      213: -2131173849900854744
+    second: road&lamps - Copy_12
+  - first:
+      213: 4451112416806487946
+    second: road&lamps - Copy_13
+  - first:
+      213: -2706785910050344859
+    second: road&lamps - Copy_14
+  - first:
+      213: 3688974514821522168
+    second: road&lamps - Copy_15
+  - first:
+      213: -7224034794926728596
+    second: road&lamps - Copy_16
+  - first:
+      213: 8197766778899799547
+    second: road&lamps - Copy_17
+  - first:
+      213: -4996345313584246908
+    second: road&lamps - Copy_18
+  - first:
+      213: -739551378968482389
+    second: road&lamps - Copy_19
+  - first:
+      213: 7214172772251646751
+    second: road&lamps - Copy_20
+  - first:
+      213: -3742922227752940074
+    second: road&lamps - Copy_21
+  - first:
+      213: 1507570108449189293
+    second: road&lamps - Copy_22
+  - first:
+      213: -7679764787234717674
+    second: road&lamps - Copy_23
+  - first:
+      213: 8124685123799657052
+    second: road&lamps - Copy_24
+  - first:
+      213: -4011971616564534149
+    second: road&lamps - Copy_25
+  - first:
+      213: 5241580142601669544
+    second: road&lamps - Copy_26
+  - first:
+      213: 7161476888803708385
+    second: road&lamps - Copy_27
+  - first:
+      213: 6313495981196819326
+    second: road&lamps - Copy_28
+  - first:
+      213: -1576191161406420095
+    second: road&lamps - Copy_29
+  - first:
+      213: -3368788451787874005
+    second: road&lamps - Copy_30
+  - first:
+      213: 2970069729635662228
+    second: road&lamps - Copy_31
+  - first:
+      213: -6725316556973830626
+    second: road&lamps - Copy_32
+  - first:
+      213: -7981488500507828053
+    second: road&lamps - Copy_33
+  - first:
+      213: 2523985264210599264
+    second: road&lamps - Copy_34
+  - first:
+      213: 1832296672192964845
+    second: road&lamps - Copy_35
+  - first:
+      213: 2890556687459662864
+    second: road&lamps - Copy_36
+  - first:
+      213: -2259548386834034226
+    second: road&lamps - Copy_37
+  - first:
+      213: -380100103497946684
+    second: road&lamps - Copy_38
+  - first:
+      213: 5281863253382306487
+    second: road&lamps - Copy_39
+  - first:
+      213: 1594050986359042638
+    second: road&lamps - Copy_40
+  - first:
+      213: 2555130131672991271
+    second: road&lamps - Copy_41
+  - first:
+      213: -7883547585873893806
+    second: road&lamps - Copy_42
+  - first:
+      213: -2911511746633466240
+    second: road&lamps - Copy_43
+  - first:
+      213: 3073033633221413752
+    second: road&lamps - Copy_44
+  - first:
+      213: -7910450701779683318
+    second: road&lamps - Copy_45
+  - first:
+      213: -3699146775906939419
+    second: road&lamps - Copy_46
+  - first:
+      213: -4974439062429073967
+    second: road&lamps - Copy_47
+  - first:
+      213: -6981034880163016176
+    second: road&lamps - Copy_48
+  - first:
+      213: -1706533206781978660
+    second: road&lamps - Copy_49
+  - first:
+      213: -2754614146923968442
+    second: road&lamps - Copy_50
+  - first:
+      213: 902614767343778106
+    second: road&lamps - Copy_51
+  - first:
+      213: 8311517176910326816
+    second: road&lamps - Copy_52
+  - first:
+      213: 5787392494746978918
+    second: road&lamps - Copy_53
+  - first:
+      213: 1536004104851071475
+    second: road&lamps - Copy_54
+  - first:
+      213: -4719981914326704326
+    second: road&lamps - Copy_55
+  - first:
+      213: 5893530735542489543
+    second: road&lamps - Copy_56
+  - first:
+      213: 4383319591437324491
+    second: road&lamps - Copy_57
+  - first:
+      213: -1353087347547415764
+    second: road&lamps - Copy_58
+  - first:
+      213: -6301927718191253569
+    second: road&lamps - Copy_59
+  - first:
+      213: 4823235328331675780
+    second: road&lamps - Copy_60
+  - first:
+      213: 529230508897493889
+    second: road&lamps - Copy_61
+  - first:
+      213: -436010434452244883
+    second: road&lamps - Copy_62
+  - first:
+      213: 9118788903317393440
+    second: road&lamps - Copy_63
+  - first:
+      213: -6641832978312192645
+    second: road&lamps - Copy_64
+  - first:
+      213: -8828587601142993423
+    second: road&lamps - Copy_65
+  - first:
+      213: 5438800941947039216
+    second: road&lamps - Copy_66
+  - first:
+      213: -4973973150642210171
+    second: road&lamps - Copy_67
+  - first:
+      213: -1149854652864181920
+    second: road&lamps - Copy_68
+  - first:
+      213: 6863392420019411172
+    second: road&lamps - Copy_69
+  - first:
+      213: -5937623055504362491
+    second: road&lamps - Copy_70
+  - first:
+      213: -3626562094001986118
+    second: road&lamps - Copy_71
+  - first:
+      213: 6356680471854983690
+    second: road&lamps - Copy_72
+  - first:
+      213: 6600755634837289301
+    second: road&lamps - Copy_73
+  - first:
+      213: 4536179975499556770
+    second: road&lamps - Copy_74
+  - first:
+      213: 7569254684762691779
+    second: road&lamps - Copy_75
+  - first:
+      213: -7413589931425134014
+    second: road&lamps - Copy_76
+  - first:
+      213: -9075849431281717133
+    second: road&lamps - Copy_77
+  - first:
+      213: 7397782259843686334
+    second: road&lamps - Copy_78
+  - first:
+      213: 8287700057414461303
+    second: road&lamps - Copy_79
+  - first:
+      213: 8469225993385097078
+    second: road&lamps - Copy_80
+  - first:
+      213: -8283242320277456346
+    second: road&lamps - Copy_81
+  - first:
+      213: -3326936944889803054
+    second: road&lamps - Copy_82
+  - first:
+      213: -549964785644208646
+    second: road&lamps - Copy_83
+  - first:
+      213: -4806765312495829862
+    second: road&lamps - Copy_84
+  - first:
+      213: -1063026754754749363
+    second: road&lamps - Copy_85
+  - first:
+      213: -4182760912218944966
+    second: road&lamps - Copy_86
+  - first:
+      213: 8294758394800851459
+    second: road&lamps - Copy_87
+  - first:
+      213: -8246132559835392420
+    second: road&lamps - Copy_88
+  - first:
+      213: -451833055130393298
+    second: road&lamps - Copy_89
+  - first:
+      213: 4400400048838998850
+    second: road&lamps - Copy_90
+  - first:
+      213: 649923431393005238
+    second: road&lamps - Copy_91
+  - first:
+      213: 6083015785152158669
+    second: road&lamps - Copy_92
+  - first:
+      213: 2126245647555571504
+    second: road&lamps - Copy_93
+  - first:
+      213: -5282331384076058715
+    second: road&lamps - Copy_94
+  - first:
+      213: 438780777519765045
+    second: road&lamps - Copy_95
+  - first:
+      213: -7178593350408629166
+    second: road&lamps - Copy_96
+  - first:
+      213: 6687079513899279836
+    second: road&lamps - Copy_97
+  - first:
+      213: -3958071786692190119
+    second: road&lamps - Copy_98
+  - first:
+      213: 7415358386797627767
+    second: road&lamps - Copy_99
+  - first:
+      213: 8192731044153677816
+    second: road&lamps - Copy_100
+  - first:
+      213: -6934598463654043522
+    second: road&lamps - Copy_101
+  - first:
+      213: 2516598502429855934
+    second: road&lamps - Copy_102
+  - first:
+      213: -8038635865922433513
+    second: road&lamps - Copy_103
+  - first:
+      213: -143272712582802828
+    second: road&lamps - Copy_104
+  - first:
+      213: -7946648153958951859
+    second: road&lamps - Copy_105
+  - first:
+      213: -5560998424934928676
+    second: road&lamps - Copy_106
+  - first:
+      213: 1204124117506542993
+    second: road&lamps - Copy_107
+  - first:
+      213: -8958798125596223011
+    second: road&lamps - Copy_108
+  - first:
+      213: 6098328405519825075
+    second: road&lamps - Copy_109
+  - first:
+      213: 370445366376444644
+    second: road&lamps - Copy_110
+  - first:
+      213: 7728473121217052048
+    second: road&lamps - Copy_111
+  - first:
+      213: -723616494225928170
+    second: road&lamps - Copy_112
+  - first:
+      213: 7119857212600942609
+    second: road&lamps - Copy_113
+  - first:
+      213: -5261978918502343682
+    second: road&lamps - Copy_114
+  - first:
+      213: -2371383457781410574
+    second: road&lamps - Copy_115
+  - first:
+      213: -4297563994355177841
+    second: road&lamps - Copy_116
+  - first:
+      213: 5349026577603567270
+    second: road&lamps - Copy_117
+  - first:
+      213: 2858508950554310170
+    second: road&lamps - Copy_118
+  - first:
+      213: -4590705464577354666
+    second: road&lamps - Copy_119
+  - first:
+      213: -7516174529416241529
+    second: road&lamps - Copy_120
+  - first:
+      213: -4679982085229246949
+    second: road&lamps - Copy_121
+  - first:
+      213: -5521126116791878333
+    second: road&lamps - Copy_122
+  - first:
+      213: -9017994722091047495
+    second: road&lamps - Copy_123
+  - first:
+      213: -7110333669784978939
+    second: road&lamps - Copy_124
+  - first:
+      213: -5608522441505440665
+    second: road&lamps - Copy_125
+  - first:
+      213: -2189844520548279116
+    second: road&lamps - Copy_126
+  - first:
+      213: 8778110426875754523
+    second: road&lamps - Copy_127
+  - first:
+      213: -8901134660312575022
+    second: road&lamps - Copy_128
+  - first:
+      213: -178887231428119292
+    second: road&lamps - Copy_129
+  - first:
+      213: 2182382576880822555
+    second: road&lamps - Copy_130
+  - first:
+      213: 6196169047277333516
+    second: road&lamps - Copy_131
+  - first:
+      213: -2561219289556135040
+    second: road&lamps - Copy_132
+  - first:
+      213: 374911463316047517
+    second: road&lamps - Copy_133
+  - first:
+      213: -8996162457428533686
+    second: road&lamps - Copy_134
+  - first:
+      213: 1577321868403207011
+    second: road&lamps - Copy_135
+  - first:
+      213: 4133490057882181767
+    second: road&lamps - Copy_136
+  - first:
+      213: 2555761660894113673
+    second: road&lamps - Copy_137
+  - first:
+      213: 6715431587099053763
+    second: road&lamps - Copy_138
+  - first:
+      213: -2908734615229076169
+    second: road&lamps - Copy_139
+  - first:
+      213: -6439269984545131518
+    second: road&lamps - Copy_140
+  - first:
+      213: -8594839177578379998
+    second: road&lamps - Copy_141
+  - first:
+      213: -3698772424771386448
+    second: road&lamps - Copy_142
+  - first:
+      213: -326485898940450406
+    second: road&lamps - Copy_143
+  - first:
+      213: 7613321620000445161
+    second: road&lamps - Copy_144
+  - first:
+      213: -4922718219661596826
+    second: road&lamps - Copy_145
+  - first:
+      213: 4878246138181298139
+    second: road&lamps - Copy_146
+  - first:
+      213: 3412904404037348364
+    second: road&lamps - Copy_147
+  - first:
+      213: -6486310802593371679
+    second: road&lamps - Copy_148
+  - first:
+      213: 3084470480619870806
+    second: road&lamps - Copy_149
+  - first:
+      213: 8671732412608056402
+    second: road&lamps - Copy_150
+  - first:
+      213: 419538944389057094
+    second: road&lamps - Copy_151
+  - first:
+      213: -6178481756104386263
+    second: road&lamps - Copy_152
+  - first:
+      213: -3401435558302101230
+    second: road&lamps - Copy_153
+  - first:
+      213: 5525802006007043847
+    second: road&lamps - Copy_154
+  - first:
+      213: -1968133651583046585
+    second: road&lamps - Copy_155
+  - first:
+      213: 7349254098975266647
+    second: road&lamps - Copy_156
+  - first:
+      213: 784569592559737657
+    second: road&lamps - Copy_157
+  - first:
+      213: -2077660452753287202
+    second: road&lamps - Copy_158
+  - first:
+      213: 7536475822409988662
+    second: road&lamps - Copy_159
+  - first:
+      213: -4872352104703790829
+    second: road&lamps - Copy_160
+  - first:
+      213: -2426923792042894478
+    second: road&lamps - Copy_161
+  - first:
+      213: 177790729613143262
+    second: road&lamps - Copy_162
+  - first:
+      213: -6337520623108513169
+    second: road&lamps - Copy_163
+  - first:
+      213: -8318196962165066381
+    second: road&lamps - Copy_164
+  - first:
+      213: 3741530200257763773
+    second: road&lamps - Copy_165
+  - first:
+      213: -5304700679803111764
+    second: road&lamps - Copy_166
+  - first:
+      213: 2558601658688601840
+    second: road&lamps - Copy_167
+  - first:
+      213: 1830154985018122390
+    second: road&lamps - Copy_168
+  - first:
+      213: 3128060933431702136
+    second: road&lamps - Copy_169
+  - first:
+      213: -4978960598700962545
+    second: road&lamps - Copy_170
+  - first:
+      213: 458780551230408751
+    second: road&lamps - Copy_171
+  - first:
+      213: 9194364128987161080
+    second: road&lamps - Copy_172
+  - first:
+      213: -648938757194256358
+    second: road&lamps - Copy_173
+  - first:
+      213: 7768306917058065932
+    second: road&lamps - Copy_174
+  - first:
+      213: -5898289490026547263
+    second: road&lamps - Copy_175
+  - first:
+      213: -2223851326987937138
+    second: road&lamps - Copy_176
+  - first:
+      213: 9150973564497992586
+    second: road&lamps - Copy_177
+  - first:
+      213: 5582997053691834700
+    second: road&lamps - Copy_178
+  - first:
+      213: 907134932766036934
+    second: road&lamps - Copy_179
+  - first:
+      213: 8191545882433458049
+    second: road&lamps - Copy_180
+  - first:
+      213: -4533836505916658323
+    second: road&lamps - Copy_181
+  - first:
+      213: 3167858744542258868
+    second: road&lamps - Copy_182
+  - first:
+      213: -8579872123089498685
+    second: road&lamps - Copy_183
+  - first:
+      213: 5942859083427939550
+    second: road&lamps - Copy_184
+  - first:
+      213: -5022814181111875649
+    second: road&lamps - Copy_185
+  - first:
+      213: 4779083376482729945
+    second: road&lamps - Copy_186
+  - first:
+      213: 1575601643745121409
+    second: road&lamps - Copy_187
+  - first:
+      213: -2329545724800470532
+    second: road&lamps - Copy_188
+  - first:
+      213: 900913725265241402
+    second: road&lamps - Copy_189
+  - first:
+      213: -8376805016601146558
+    second: road&lamps - Copy_190
+  - first:
+      213: -2406230556608620697
+    second: road&lamps - Copy_191
+  - first:
+      213: 5469786993469007400
+    second: road&lamps - Copy_192
+  - first:
+      213: -8021051790663699612
+    second: road&lamps - Copy_193
+  - first:
+      213: 9022379632621451993
+    second: road&lamps - Copy_194
+  - first:
+      213: 2860170379887766324
+    second: road&lamps - Copy_195
+  - first:
+      213: -8777278996591049861
+    second: road&lamps - Copy_196
+  - first:
+      213: 6542624074957823446
+    second: road&lamps - Copy_197
+  - first:
+      213: 5506527434602079953
+    second: road&lamps - Copy_198
+  - first:
+      213: 7309971656106137670
+    second: road&lamps - Copy_199
+  - first:
+      213: 6899834226440507368
+    second: road&lamps - Copy_200
+  - first:
+      213: 6013890851724014108
+    second: road&lamps - Copy_201
+  - first:
+      213: -5155269442408410163
+    second: road&lamps - Copy_202
+  - first:
+      213: -8476707328776404996
+    second: road&lamps - Copy_203
+  - first:
+      213: -437169153441828971
+    second: road&lamps - Copy_204
+  - first:
+      213: 195053519290862982
+    second: road&lamps - Copy_205
+  - first:
+      213: -2483980411565475450
+    second: road&lamps - Copy_206
+  - first:
+      213: -2812461813412619162
+    second: road&lamps - Copy_207
+  - first:
+      213: -6174279976618492365
+    second: road&lamps - Copy_208
+  - first:
+      213: 6651637137237862764
+    second: road&lamps - Copy_209
+  - first:
+      213: 807015818087395182
+    second: road&lamps - Copy_210
+  - first:
+      213: -4998494245647579114
+    second: road&lamps - Copy_211
+  - first:
+      213: 8906573341065775553
+    second: road&lamps - Copy_212
+  - first:
+      213: 7188300334830198162
+    second: road&lamps - Copy_213
+  - first:
+      213: -8436000087794391515
+    second: road&lamps - Copy_214
+  - first:
+      213: 2206613784737477772
+    second: road&lamps - Copy_215
+  - first:
+      213: -6211306292211499870
+    second: road&lamps - Copy_216
+  - first:
+      213: -4001712946573114743
+    second: road&lamps - Copy_217
+  - first:
+      213: -3150132584352903503
+    second: road&lamps - Copy_218
+  - first:
+      213: 3648890566056043825
+    second: road&lamps - Copy_219
+  - first:
+      213: 3782983266226289250
+    second: road&lamps - Copy_220
+  - first:
+      213: -4589356205417644544
+    second: road&lamps - Copy_221
+  - first:
+      213: 6849713801930338441
+    second: road&lamps - Copy_222
+  - first:
+      213: -2808555285766261753
+    second: road&lamps - Copy_223
+  - first:
+      213: 4372924574617014834
+    second: road&lamps - Copy_224
+  - first:
+      213: -3935110405534581752
+    second: road&lamps - Copy_225
+  - first:
+      213: -8465631947065943202
+    second: road&lamps - Copy_226
+  - first:
+      213: -3626312335902250614
+    second: road&lamps - Copy_227
+  - first:
+      213: -6312766596881124675
+    second: road&lamps - Copy_228
+  - first:
+      213: 1621556201434216587
+    second: road&lamps - Copy_229
+  - first:
+      213: 2742494482692146068
+    second: road&lamps - Copy_230
+  - first:
+      213: 7192870335938593107
+    second: road&lamps - Copy_231
+  - first:
+      213: -5985181699718788388
+    second: road&lamps - Copy_232
+  - first:
+      213: -4778441359270674351
+    second: road&lamps - Copy_233
+  - first:
+      213: -4944725941381519532
+    second: road&lamps - Copy_234
+  - first:
+      213: 5488014881961344178
+    second: road&lamps - Copy_235
+  - first:
+      213: -1746753466108724056
+    second: road&lamps - Copy_236
+  - first:
+      213: 5801085760536239780
+    second: road&lamps - Copy_237
+  - first:
+      213: -446717314013288799
+    second: road&lamps - Copy_238
+  - first:
+      213: 1319033074373774158
+    second: road&lamps - Copy_239
+  - first:
+      213: -6315243238854417674
+    second: road&lamps - Copy_240
+  - first:
+      213: 8260388830733962482
+    second: road&lamps - Copy_241
+  - first:
+      213: -1603536086960266998
+    second: road&lamps - Copy_242
+  - first:
+      213: -8383984145413223074
+    second: road&lamps - Copy_243
+  - first:
+      213: -5884292473857073816
+    second: road&lamps - Copy_244
+  - first:
+      213: 1666752123433962305
+    second: road&lamps - Copy_245
+  - first:
+      213: 1189883484147318034
+    second: road&lamps - Copy_246
+  - first:
+      213: -5368515215558667515
+    second: road&lamps - Copy_247
+  - first:
+      213: 2659119701977660984
+    second: road&lamps - Copy_248
+  - first:
+      213: 2118918526867756359
+    second: road&lamps - Copy_249
+  - first:
+      213: -4258050003054372300
+    second: road&lamps - Copy_250
+  - first:
+      213: 691863463369960293
+    second: road&lamps - Copy_251
+  - first:
+      213: -2933156257010247032
+    second: road&lamps - Copy_252
+  - first:
+      213: 9173082768787313477
+    second: road&lamps - Copy_253
+  - first:
+      213: 3551822583819323705
+    second: road&lamps - Copy_254
+  - first:
+      213: -1895599210527355610
+    second: road&lamps - Copy_255
+  - first:
+      213: 3165947756579150778
+    second: road&lamps - Copy_256
+  - first:
+      213: 6169419921758016350
+    second: road&lamps - Copy_257
+  - first:
+      213: -1100114440231451718
+    second: road&lamps - Copy_258
+  - first:
+      213: 8903032711312006321
+    second: road&lamps - Copy_259
+  - first:
+      213: -4249346668656681232
+    second: road&lamps - Copy_260
+  - first:
+      213: 6144766870252567288
+    second: road&lamps - Copy_261
+  - first:
+      213: -2879834986821981054
+    second: road&lamps - Copy_262
+  - first:
+      213: -1320573158299743272
+    second: road&lamps - Copy_263
+  - first:
+      213: 7284052433248221478
+    second: road&lamps - Copy_264
+  - first:
+      213: 7972580575839692876
+    second: road&lamps - Copy_265
+  - first:
+      213: -5517641444442918224
+    second: road&lamps - Copy_266
+  - first:
+      213: 538235213318203461
+    second: road&lamps - Copy_267
+  - first:
+      213: -2749616422926556223
+    second: road&lamps - Copy_268
+  - first:
+      213: -3616386163337851941
+    second: road&lamps - Copy_269
+  - first:
+      213: 7605840727278012947
+    second: road&lamps - Copy_270
+  - first:
+      213: -1968515887341753681
+    second: road&lamps - Copy_271
+  - first:
+      213: -4358010740275995803
+    second: road&lamps - Copy_272
+  - first:
+      213: -8950950201182424138
+    second: road&lamps - Copy_273
+  - first:
+      213: -6112066979178958508
+    second: road&lamps - Copy_274
+  - first:
+      213: -8751358465843642778
+    second: road&lamps - Copy_275
+  - first:
+      213: -6265786845673576366
+    second: road&lamps - Copy_276
+  - first:
+      213: -6176500042901681287
+    second: road&lamps - Copy_277
+  - first:
+      213: 8003700965708988434
+    second: road&lamps - Copy_278
+  - first:
+      213: 6117015677400086597
+    second: road&lamps - Copy_279
+  - first:
+      213: 1221035017200825307
+    second: road&lamps - Copy_280
+  - first:
+      213: -3102696765323653929
+    second: road&lamps - Copy_281
+  - first:
+      213: -3461137248650179870
+    second: road&lamps - Copy_282
+  - first:
+      213: -8510398599830687866
+    second: road&lamps - Copy_283
+  - first:
+      213: 5359953699907017035
+    second: road&lamps - Copy_284
+  - first:
+      213: -9087506616843589333
+    second: road&lamps - Copy_285
+  - first:
+      213: -3914698762165454285
+    second: road&lamps - Copy_286
+  - first:
+      213: 5191529860557242047
+    second: road&lamps - Copy_287
+  - first:
+      213: -4957443751517430989
+    second: road&lamps - Copy_288
+  - first:
+      213: 8496940048846172475
+    second: road&lamps - Copy_289
+  - first:
+      213: 2746727777753268362
+    second: road&lamps - Copy_290
+  - first:
+      213: 2744246726611952721
+    second: road&lamps - Copy_291
+  - first:
+      213: 6754897816613945756
+    second: road&lamps - Copy_292
+  - first:
+      213: 685862597103792935
+    second: road&lamps - Copy_293
+  - first:
+      213: 5751104139204989440
+    second: road&lamps - Copy_294
+  - first:
+      213: -5609697827681682419
+    second: road&lamps - Copy_295
+  - first:
+      213: 5205970047775640658
+    second: road&lamps - Copy_296
+  - first:
+      213: 187476081878769504
+    second: road&lamps - Copy_297
+  - first:
+      213: -3543045650670652755
+    second: road&lamps - Copy_298
+  - first:
+      213: -6793670325197252941
+    second: road&lamps - Copy_299
+  - first:
+      213: 8058502569677664239
+    second: road&lamps - Copy_300
+  - first:
+      213: 6399612612085054708
+    second: road&lamps - Copy_301
+  - first:
+      213: 1806595103075929956
+    second: road&lamps - Copy_302
+  - first:
+      213: -4654510736566510234
+    second: road&lamps - Copy_303
+  - first:
+      213: -6625627863316353467
+    second: road&lamps - Copy_304
+  - first:
+      213: -6557848081766122044
+    second: road&lamps - Copy_305
+  - first:
+      213: 5828247893187449532
+    second: road&lamps - Copy_306
+  - first:
+      213: 984012966671881069
+    second: road&lamps - Copy_307
+  - first:
+      213: -1979611541162010236
+    second: road&lamps - Copy_308
+  - first:
+      213: 7722307451310490947
+    second: road&lamps - Copy_309
+  - first:
+      213: -2753307862853027706
+    second: road&lamps - Copy_310
+  - first:
+      213: -5858817190330509072
+    second: road&lamps - Copy_311
+  - first:
+      213: 5290480392287827866
+    second: road&lamps - Copy_312
+  - first:
+      213: 7635503016610294815
+    second: road&lamps - Copy_313
+  - first:
+      213: -177683443044232951
+    second: road&lamps - Copy_314
+  - first:
+      213: 3865141536246370805
+    second: road&lamps - Copy_315
+  - first:
+      213: 8013571375256690149
+    second: road&lamps - Copy_316
+  - first:
+      213: 4492045631830882227
+    second: road&lamps - Copy_317
+  - first:
+      213: 6286165388633575785
+    second: road&lamps - Copy_318
+  - first:
+      213: -3151730209342561301
+    second: road&lamps - Copy_319
+  - first:
+      213: -8074025395358903361
+    second: road&lamps - Copy_320
+  - first:
+      213: -8466151348094582067
+    second: road&lamps - Copy_321
+  - first:
+      213: -893736324438061765
+    second: road&lamps - Copy_322
+  - first:
+      213: -6944233772768336390
+    second: road&lamps - Copy_323
+  - first:
+      213: -7976239557466731629
+    second: road&lamps - Copy_324
+  - first:
+      213: 5834562211645889727
+    second: road&lamps - Copy_325
+  - first:
+      213: 1717400307293477911
+    second: road&lamps - Copy_326
+  - first:
+      213: -7245190246682415178
+    second: road&lamps - Copy_327
+  - first:
+      213: -1429878952670489178
+    second: road&lamps - Copy_328
+  - first:
+      213: 5325990149943446112
+    second: road&lamps - Copy_329
+  - first:
+      213: -5837588108272014404
+    second: road&lamps - Copy_330
+  - first:
+      213: -8451530139518517127
+    second: road&lamps - Copy_331
+  - first:
+      213: 8958617129465321951
+    second: road&lamps - Copy_332
+  - first:
+      213: 2557356875984793923
+    second: road&lamps - Copy_333
+  - first:
+      213: 2313457859798936825
+    second: road&lamps - Copy_334
+  - first:
+      213: -2200215704609074104
+    second: road&lamps - Copy_335
+  - first:
+      213: -2131767104253352407
+    second: road&lamps - Copy_336
+  - first:
+      213: 9142269957165207667
+    second: road&lamps - Copy_337
+  - first:
+      213: -2513069393684799264
+    second: road&lamps - Copy_338
+  - first:
+      213: -8170951962608640416
+    second: road&lamps - Copy_339
+  - first:
+      213: -295404442957688667
+    second: road&lamps - Copy_340
+  - first:
+      213: 4931553628178554929
+    second: road&lamps - Copy_341
+  - first:
+      213: -8040799027418288728
+    second: road&lamps - Copy_342
+  - first:
+      213: 3609808637382328589
+    second: road&lamps - Copy_343
+  - first:
+      213: 9069614113670924588
+    second: road&lamps - Copy_344
+  - first:
+      213: -686697416866931644
+    second: road&lamps - Copy_345
+  - first:
+      213: 7502625881625443239
+    second: road&lamps - Copy_346
+  - first:
+      213: -3689897582273753444
+    second: road&lamps - Copy_347
+  - first:
+      213: 3684868348549918768
+    second: road&lamps - Copy_348
+  - first:
+      213: -2168803321428802733
+    second: road&lamps - Copy_349
+  - first:
+      213: 1184295130656924262
+    second: road&lamps - Copy_350
+  - first:
+      213: -3908229976458964876
+    second: road&lamps - Copy_351
+  - first:
+      213: 509663435267378738
+    second: road&lamps - Copy_352
+  - first:
+      213: 4983721149998455445
+    second: road&lamps - Copy_353
+  - first:
+      213: -524961573868552683
+    second: road&lamps - Copy_354
+  - first:
+      213: 5564179932818512634
+    second: road&lamps - Copy_355
+  - first:
+      213: 8049189911040866210
+    second: road&lamps - Copy_356
+  - first:
+      213: -2320223571929009546
+    second: road&lamps - Copy_357
+  - first:
+      213: 1427730718162861516
+    second: road&lamps - Copy_358
+  - first:
+      213: -2010484541804490781
+    second: road&lamps - Copy_359
+  - first:
+      213: 6999334317931783963
+    second: road&lamps - Copy_360
+  - first:
+      213: -6117860803872424182
+    second: road&lamps - Copy_361
+  - first:
+      213: 8321832260936503387
+    second: road&lamps - Copy_362
+  - first:
+      213: -2630053205652049838
+    second: road&lamps - Copy_363
+  - first:
+      213: 932978263456884050
+    second: road&lamps - Copy_364
+  - first:
+      213: 8502026578131223339
+    second: road&lamps - Copy_365
+  - first:
+      213: 7338912892293193144
+    second: road&lamps - Copy_366
+  - first:
+      213: -2782997658491206040
+    second: road&lamps - Copy_367
+  - first:
+      213: 3308434294421920719
+    second: road&lamps - Copy_368
+  - first:
+      213: 4579014498871785112
+    second: road&lamps - Copy_369
+  - first:
+      213: 5954583608045922541
+    second: road&lamps - Copy_370
+  - first:
+      213: 2807208167997747870
+    second: road&lamps - Copy_371
+  - first:
+      213: -2262717414150312984
+    second: road&lamps - Copy_372
+  - first:
+      213: -6302426772568707043
+    second: road&lamps - Copy_373
+  - first:
+      213: 2571643885370030481
+    second: road&lamps - Copy_374
+  - first:
+      213: -7181672156192489023
+    second: road&lamps - Copy_375
+  - first:
+      213: -7599865464755136448
+    second: road&lamps - Copy_376
+  - first:
+      213: 3293567839470528793
+    second: road&lamps - Copy_377
+  - first:
+      213: -7394922274690327754
+    second: road&lamps - Copy_378
+  - first:
+      213: -4996713030772996855
+    second: road&lamps - Copy_379
+  - first:
+      213: -1575239137344918283
+    second: road&lamps - Copy_380
+  - first:
+      213: 4204025892264587100
+    second: road&lamps - Copy_381
+  - first:
+      213: -465568032761788567
+    second: road&lamps - Copy_382
+  - first:
+      213: 958775897750395503
+    second: road&lamps - Copy_383
+  - first:
+      213: -4881772433397199812
+    second: road&lamps - Copy_384
+  - first:
+      213: 8814682222332261967
+    second: road&lamps - Copy_385
+  - first:
+      213: -5633924591358058215
+    second: road&lamps - Copy_386
+  - first:
+      213: -6816708380713589550
+    second: road&lamps - Copy_387
+  - first:
+      213: -4850653212886237499
+    second: road&lamps - Copy_388
+  - first:
+      213: 862288399689023087
+    second: road&lamps - Copy_389
+  - first:
+      213: -2415418153962980107
+    second: road&lamps - Copy_390
+  - first:
+      213: -8824473878213042462
+    second: road&lamps - Copy_391
+  - first:
+      213: 8216224843827176407
+    second: road&lamps - Copy_392
+  - first:
+      213: -7453489526870204083
+    second: road&lamps - Copy_393
+  - first:
+      213: -4447385295634546529
+    second: road&lamps - Copy_394
+  - first:
+      213: -5127575804219437254
+    second: road&lamps - Copy_395
+  - first:
+      213: -2015735697007159992
+    second: road&lamps - Copy_396
+  - first:
+      213: -2621516081699206697
+    second: road&lamps - Copy_397
+  - first:
+      213: 8311945650467931690
+    second: road&lamps - Copy_398
+  - first:
+      213: -8707829010520497973
+    second: road&lamps - Copy_399
+  - first:
+      213: -7030976355430751365
+    second: road&lamps - Copy_400
+  - first:
+      213: -5747466708583543868
+    second: road&lamps - Copy_401
+  - first:
+      213: 5260214619890736158
+    second: road&lamps - Copy_402
+  - first:
+      213: 952798248382961115
+    second: road&lamps - Copy_403
+  - first:
+      213: 1874161582619394865
+    second: road&lamps - Copy_404
+  - first:
+      213: 4052169428630997933
+    second: road&lamps - Copy_405
+  - first:
+      213: -1610071174275987480
+    second: road&lamps - Copy_406
+  - first:
+      213: -483447618757158592
+    second: road&lamps - Copy_407
+  - first:
+      213: 2394309110724548740
+    second: road&lamps - Copy_408
+  - first:
+      213: -2160383519910114254
+    second: road&lamps - Copy_409
+  - first:
+      213: -1880514132862992906
+    second: road&lamps - Copy_410
+  - first:
+      213: -7671825970511422859
+    second: road&lamps - Copy_411
+  - first:
+      213: 3980385132024279277
+    second: road&lamps - Copy_412
+  - first:
+      213: -9094482415808112511
+    second: road&lamps - Copy_413
+  - first:
+      213: -6392719929770881448
+    second: road&lamps - Copy_414
+  - first:
+      213: 5623072708212236846
+    second: road&lamps - Copy_415
+  - first:
+      213: -7792886924974466428
+    second: road&lamps - Copy_416
+  - first:
+      213: -2973036524822674730
+    second: road&lamps - Copy_417
+  - first:
+      213: 7345045832998694337
+    second: road&lamps - Copy_418
+  - first:
+      213: 6365000542935845430
+    second: road&lamps - Copy_419
+  - first:
+      213: 438311055082308370
+    second: road&lamps - Copy_420
+  - first:
+      213: -3363007918854204682
+    second: road&lamps - Copy_421
+  - first:
+      213: -4887201487883463591
+    second: road&lamps - Copy_422
+  - first:
+      213: 8313240437450537820
+    second: road&lamps - Copy_423
+  - first:
+      213: 2442514165102039197
+    second: road&lamps - Copy_424
+  - first:
+      213: 5651088807255827744
+    second: road&lamps - Copy_425
+  - first:
+      213: -2257914040230639513
+    second: road&lamps - Copy_426
+  - first:
+      213: 1009359239721154777
+    second: road&lamps - Copy_427
+  - first:
+      213: -3670191972670624199
+    second: road&lamps - Copy_428
+  - first:
+      213: 4900688094231531604
+    second: road&lamps - Copy_429
+  - first:
+      213: -2652634653009556000
+    second: road&lamps - Copy_430
+  - first:
+      213: -5825686614444920337
+    second: road&lamps - Copy_431
+  - first:
+      213: 1133978626602023080
+    second: road&lamps - Copy_432
+  - first:
+      213: -3053823548673623819
+    second: road&lamps - Copy_433
+  - first:
+      213: -3745053321936784622
+    second: road&lamps - Copy_434
+  - first:
+      213: -1661893621713624680
+    second: road&lamps - Copy_435
+  - first:
+      213: -8974114078852655827
+    second: road&lamps - Copy_436
+  - first:
+      213: -1882261920333925759
+    second: road&lamps - Copy_437
+  - first:
+      213: 4897141356625915366
+    second: road&lamps - Copy_438
+  - first:
+      213: -8479577024354252793
+    second: road&lamps - Copy_439
+  - first:
+      213: -5729120689834341630
+    second: road&lamps - Copy_440
+  - first:
+      213: 6554056715470543156
+    second: road&lamps - Copy_441
+  - first:
+      213: -1700298155045537956
+    second: road&lamps - Copy_442
+  - first:
+      213: 4246668518594858941
+    second: road&lamps - Copy_443
+  - first:
+      213: 355591730830354430
+    second: road&lamps - Copy_444
+  - first:
+      213: -7912793024186832712
+    second: road&lamps - Copy_445
+  - first:
+      213: 4449191012045005277
+    second: road&lamps - Copy_446
+  - first:
+      213: 8590359985626741236
+    second: road&lamps - Copy_447
+  - first:
+      213: 4569821541326168819
+    second: road&lamps - Copy_448
+  - first:
+      213: -9221822607813514112
+    second: road&lamps - Copy_449
+  - first:
+      213: -5452905215750544722
+    second: road&lamps - Copy_450
+  - first:
+      213: 6648231161658632830
+    second: road&lamps - Copy_451
+  - first:
+      213: -8460879097894792141
+    second: road&lamps - Copy_452
+  - first:
+      213: -6114279922509590082
+    second: road&lamps - Copy_453
+  - first:
+      213: 5663754441752063087
+    second: road&lamps - Copy_454
+  - first:
+      213: -6255007630695954128
+    second: road&lamps - Copy_455
+  - first:
+      213: -3854389578736993634
+    second: road&lamps - Copy_456
+  - first:
+      213: 6015454586192304305
+    second: road&lamps - Copy_457
+  - first:
+      213: -187245042869643054
+    second: road&lamps - Copy_458
+  - first:
+      213: 483232321828732672
+    second: road&lamps - Copy_459
+  - first:
+      213: 4148871248005008001
+    second: road&lamps - Copy_460
+  - first:
+      213: 87286997485499799
+    second: road&lamps - Copy_461
+  - first:
+      213: -5365809009286190309
+    second: road&lamps - Copy_462
+  - first:
+      213: 7608495426050487027
+    second: road&lamps - Copy_463
+  - first:
+      213: 7991629445238358786
+    second: road&lamps - Copy_464
+  - first:
+      213: 7476653811751508757
+    second: road&lamps - Copy_465
+  - first:
+      213: -2418069144158634914
+    second: road&lamps - Copy_466
+  - first:
+      213: 6697264301186395456
+    second: road&lamps - Copy_467
+  - first:
+      213: 7366282577168004242
+    second: road&lamps - Copy_468
+  - first:
+      213: 2354550132445290344
+    second: road&lamps - Copy_469
+  - first:
+      213: 6167077322919708365
+    second: road&lamps - Copy_470
+  - first:
+      213: -8049562318277031737
+    second: road&lamps - Copy_471
+  - first:
+      213: -5159282221340377762
+    second: road&lamps - Copy_472
+  - first:
+      213: 6758403183267312528
+    second: road&lamps - Copy_473
+  - first:
+      213: 8315003569171404670
+    second: road&lamps - Copy_474
+  - first:
+      213: 412875285756484371
+    second: road&lamps - Copy_475
+  - first:
+      213: 8683155749768395334
+    second: road&lamps - Copy_476
+  - first:
+      213: -7009873214261833065
+    second: road&lamps - Copy_477
+  - first:
+      213: 8770407259921706646
+    second: road&lamps - Copy_478
+  - first:
+      213: -6462252291973297945
+    second: road&lamps - Copy_479
+  - first:
+      213: -3468598889670432765
+    second: road&lamps - Copy_480
+  - first:
+      213: 5597494545230114201
+    second: road&lamps - Copy_481
+  - first:
+      213: -306725999694176658
+    second: road&lamps - Copy_482
+  - first:
+      213: -6034302562357704865
+    second: road&lamps - Copy_483
+  - first:
+      213: 2630164242632300909
+    second: road&lamps - Copy_484
+  - first:
+      213: -1562547733190758919
+    second: road&lamps - Copy_485
+  - first:
+      213: 6428176932272834715
+    second: road&lamps - Copy_486
+  - first:
+      213: -6725006066200744205
+    second: road&lamps - Copy_487
+  - first:
+      213: -9155781591737085463
+    second: road&lamps - Copy_488
+  - first:
+      213: 5135908968490161034
+    second: road&lamps - Copy_489
+  - first:
+      213: 8701512197521271025
+    second: road&lamps - Copy_490
+  - first:
+      213: 8920250040939258862
+    second: road&lamps - Copy_491
+  - first:
+      213: 6289187654047647882
+    second: road&lamps - Copy_492
+  - first:
+      213: -1595094802933904627
+    second: road&lamps - Copy_493
+  - first:
+      213: 2179479891599946955
+    second: road&lamps - Copy_494
+  - first:
+      213: -4665441493125687066
+    second: road&lamps - Copy_495
+  - first:
+      213: -3904732201466070952
+    second: road&lamps - Copy_496
+  - first:
+      213: 1658893747568145488
+    second: road&lamps - Copy_497
+  - first:
+      213: -8405246286928648271
+    second: road&lamps - Copy_498
+  - first:
+      213: -4748466301047105377
+    second: road&lamps - Copy_499
+  - first:
+      213: 7458970404838389386
+    second: road&lamps - Copy_500
+  - first:
+      213: -4187168185814675376
+    second: road&lamps - Copy_501
+  - first:
+      213: 3101602354081474193
+    second: road&lamps - Copy_502
+  - first:
+      213: -3865314955783827939
+    second: road&lamps - Copy_503
+  - first:
+      213: -2333966779465538795
+    second: road&lamps - Copy_504
+  - first:
+      213: 6716243099713939710
+    second: road&lamps - Copy_505
+  - first:
+      213: -4945709048574982978
+    second: road&lamps - Copy_506
+  - first:
+      213: 1241561245230335844
+    second: road&lamps - Copy_507
+  - first:
+      213: 5782985203478391432
+    second: road&lamps - Copy_508
+  - first:
+      213: 8773707424618587133
+    second: road&lamps - Copy_509
+  - first:
+      213: 4642031093784408809
+    second: road&lamps - Copy_510
+  - first:
+      213: -4242348640529852758
+    second: road&lamps - Copy_511
+  - first:
+      213: 9058489616591912462
+    second: road&lamps - Copy_512
+  - first:
+      213: -7533488086550220546
+    second: road&lamps - Copy_513
+  - first:
+      213: 8617616930463080949
+    second: road&lamps - Copy_514
+  - first:
+      213: 2712849770675006564
+    second: road&lamps - Copy_515
+  - first:
+      213: 5843071458028307990
+    second: road&lamps - Copy_516
+  - first:
+      213: 1488503384345797041
+    second: road&lamps - Copy_517
+  - first:
+      213: 3454780312278363195
+    second: road&lamps - Copy_518
+  - first:
+      213: 3229279674530980279
+    second: road&lamps - Copy_519
+  - first:
+      213: 277607198994177366
+    second: road&lamps - Copy_520
+  - first:
+      213: 5680850288375816358
+    second: road&lamps - Copy_521
+  - first:
+      213: -5744731330784704092
+    second: road&lamps - Copy_522
+  - first:
+      213: 5680073104626485147
+    second: road&lamps - Copy_523
+  - first:
+      213: 997795218566388786
+    second: road&lamps - Copy_524
+  - first:
+      213: -7665459931067487289
+    second: road&lamps - Copy_525
+  - first:
+      213: -7379566804936014946
+    second: road&lamps - Copy_526
+  - first:
+      213: -3034422117150095440
+    second: road&lamps - Copy_527
+  - first:
+      213: -8791165655785949587
+    second: road&lamps - Copy_528
+  - first:
+      213: 8041172185269020266
+    second: road&lamps - Copy_529
+  - first:
+      213: 3485834096042549950
+    second: road&lamps - Copy_530
+  - first:
+      213: 2638400625858997538
+    second: road&lamps - Copy_531
+  - first:
+      213: -3586620135623257191
+    second: road&lamps - Copy_532
+  - first:
+      213: 264263752319724179
+    second: road&lamps - Copy_533
+  - first:
+      213: -4975424524653719612
+    second: road&lamps - Copy_534
+  - first:
+      213: 2374350975601174046
+    second: road&lamps - Copy_535
+  - first:
+      213: 8425600664772918439
+    second: road&lamps - Copy_536
+  - first:
+      213: 601187885330754528
+    second: road&lamps - Copy_537
+  - first:
+      213: 5555333543948162986
+    second: road&lamps - Copy_538
+  - first:
+      213: 3135793596506275665
+    second: road&lamps - Copy_539
+  - first:
+      213: 3730623536819985656
+    second: road&lamps - Copy_540
+  - first:
+      213: 3001092255498330523
+    second: road&lamps - Copy_541
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: road&lamps - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256291e4d33089290800000000000000
+      internalID: -7883547585873893806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef8860e7b3897d0800000000000000
+      internalID: -2911511746633466240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b8dfacecb95aa20800000000000000
+      internalID: 3073033633221413752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 155
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08be238ffe683290800000000000000
+      internalID: -7910450701779683318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 155
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed09023b9df9acc0800000000000000
+      internalID: -3699146775906939419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 155
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7617470e37fab0800000000000000
+      internalID: -4974439062429073967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 155
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012954b73c16e1f90800000000000000
+      internalID: -6981034880163016176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 156
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d663c18e1daf2f9f0800000000000000
+      internalID: -436010434452244883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd20d404a08a7b40800000000000000
+      internalID: 5438800941947039216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af3a1d5c5e8fab0800000000000000
+      internalID: -4973973150642210171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06943b01945ea00f0800000000000000
+      internalID: -1149854652864181920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 156
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372855905ee8552d0800000000000000
+      internalID: -3290566838369025421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 156
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e49524421dffd0800000000000000
+      internalID: -2306667350246235862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: road&lamps - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 156
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c152c6490053c00800000000000000
+      internalID: 879609939690331277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

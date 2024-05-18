@@ -1,0 +1,2768 @@
+fileFormatVersion: 2
+guid: 986cd8e3ddaeff14889cf24b1e1db9f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4059254225605841137
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_0
+  - first:
+      213: -1840409512090089859
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_1
+  - first:
+      213: -1126794577820374471
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_2
+  - first:
+      213: 1609245391585566695
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_3
+  - first:
+      213: -5360762937820333474
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_4
+  - first:
+      213: -4730347074528079494
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_5
+  - first:
+      213: -4425872746417529172
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_6
+  - first:
+      213: 4388261364472820052
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_7
+  - first:
+      213: -5025001254054642147
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_8
+  - first:
+      213: -7757037453478575924
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_9
+  - first:
+      213: -7605448447938944915
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_10
+  - first:
+      213: -5977602040091106283
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_11
+  - first:
+      213: 6631852297735549248
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_12
+  - first:
+      213: -3054498096471949139
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_13
+  - first:
+      213: -5985544474738518248
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_14
+  - first:
+      213: -2628657440185235349
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_15
+  - first:
+      213: -3484085953581307378
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_16
+  - first:
+      213: -8307556936665855874
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_17
+  - first:
+      213: -1923551782321548652
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_18
+  - first:
+      213: -3698363555613246444
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_19
+  - first:
+      213: -1643273654877744847
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_20
+  - first:
+      213: -5796377258870994641
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_21
+  - first:
+      213: -6506369066791674371
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_22
+  - first:
+      213: -7902872254853090097
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_23
+  - first:
+      213: 477855208016648285
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_24
+  - first:
+      213: 5481200196052041954
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_25
+  - first:
+      213: -2364150252717494682
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_26
+  - first:
+      213: 50114563028309885
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_27
+  - first:
+      213: -7018247158894314840
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_28
+  - first:
+      213: -1985725691040209550
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_29
+  - first:
+      213: 2778622529969818789
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_30
+  - first:
+      213: 5354413168944676092
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_31
+  - first:
+      213: 484615073198493133
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_32
+  - first:
+      213: 1779926976809918739
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_33
+  - first:
+      213: 7023857458092212782
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_34
+  - first:
+      213: 4851186539109288945
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_35
+  - first:
+      213: 4128038708383053782
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_36
+  - first:
+      213: -1366338362394486428
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_37
+  - first:
+      213: -711200396342009578
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_38
+  - first:
+      213: 6714142421313649998
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_39
+  - first:
+      213: -1366339167223321143
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_40
+  - first:
+      213: -7447232607783767815
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_41
+  - first:
+      213: 1106933372900130462
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_42
+  - first:
+      213: -1650828001293929466
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_43
+  - first:
+      213: 487966853368079945
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_44
+  - first:
+      213: -6444555103557903802
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_45
+  - first:
+      213: -427305890427412038
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_46
+  - first:
+      213: 1638263999466299204
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_47
+  - first:
+      213: -6215633645910706866
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_48
+  - first:
+      213: 5094031737778348902
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_49
+  - first:
+      213: 8921355941060499047
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_50
+  - first:
+      213: -1246705664278239850
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_51
+  - first:
+      213: 8949738567622068791
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_52
+  - first:
+      213: 6706129646736316045
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_53
+  - first:
+      213: -1071737717113602226
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_54
+  - first:
+      213: -6787754468790153549
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_55
+  - first:
+      213: -5309316008885650941
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_56
+  - first:
+      213: -3649680099574048628
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_57
+  - first:
+      213: -1517073507511363433
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_58
+  - first:
+      213: 4253119102565019659
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_59
+  - first:
+      213: -5683939810127131968
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_60
+  - first:
+      213: 5928268387873545105
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_61
+  - first:
+      213: 6814358142428862718
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_62
+  - first:
+      213: -1428116349788562588
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_63
+  - first:
+      213: 5473779519703544171
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_64
+  - first:
+      213: -4719173616777782259
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_65
+  - first:
+      213: 14806929344076715
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_66
+  - first:
+      213: 8133286835776863859
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_67
+  - first:
+      213: -4755611624185264373
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_68
+  - first:
+      213: 1457048934250804094
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_69
+  - first:
+      213: 8324864461172714290
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_70
+  - first:
+      213: 1446488586163854013
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_71
+  - first:
+      213: -4114717703696636182
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_72
+  - first:
+      213: -5196978337076819258
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_73
+  - first:
+      213: 7819537298691100006
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_74
+  - first:
+      213: 2542246205319412031
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_75
+  - first:
+      213: 7517425606327078472
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_76
+  - first:
+      213: 3898579836433044227
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_77
+  - first:
+      213: -4914024491218844521
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_78
+  - first:
+      213: 5899330300133151233
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_79
+  - first:
+      213: 4956861558623644823
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_80
+  - first:
+      213: -6534658219316107873
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_81
+  - first:
+      213: 5097912521148137308
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_82
+  - first:
+      213: -2486147858346604416
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_83
+  - first:
+      213: 133833896601406664
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_84
+  - first:
+      213: 4531524684686510533
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_85
+  - first:
+      213: -9180450787432243981
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_86
+  - first:
+      213: 4502397636445852373
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_87
+  - first:
+      213: -4825408226283428589
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_88
+  - first:
+      213: 3494719961121723486
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_89
+  - first:
+      213: 2063860343486367545
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_90
+  - first:
+      213: 319320763220901
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_91
+  - first:
+      213: -5661195310016819979
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_92
+  - first:
+      213: 8445420728882357061
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_93
+  - first:
+      213: 4814764551132684023
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_94
+  - first:
+      213: -3485545902153317838
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_95
+  - first:
+      213: -7432008402729364632
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_96
+  - first:
+      213: -5707624999008563412
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_97
+  - first:
+      213: 4727660492092207475
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_98
+  - first:
+      213: 8284240592452383997
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_99
+  - first:
+      213: 8369224052507466370
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_100
+  - first:
+      213: -5105410196323630760
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_101
+  - first:
+      213: 4506409897549470958
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_102
+  - first:
+      213: -8229924985448330726
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_103
+  - first:
+      213: 4061839189477072892
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_104
+  - first:
+      213: 8680971899280909886
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_105
+  - first:
+      213: -8822178770917001460
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_106
+  - first:
+      213: -6817813990585469484
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_107
+  - first:
+      213: 4714810463248224438
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_108
+  - first:
+      213: -2965806803133638824
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_109
+  - first:
+      213: -8995387718844158567
+    second: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_110
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 75
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1851
+        width: 123
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fa2c5e9c1aaa7c0800000000000000
+      internalID: -4059254225605841137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2005
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ce96bc4d8576e0800000000000000
+      internalID: -1840409512090089859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2034
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a2e2e2d42dc50f0800000000000000
+      internalID: -1126794577820374471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_3
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 1829
+        width: 121
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef54e15820355610800000000000000
+      internalID: 1609245391585566695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_4
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 2023
+        width: 72
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab326b28eba95b0800000000000000
+      internalID: -5360762937820333474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_5
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2012
+        width: 127
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71127ee56e6a5eb0800000000000000
+      internalID: -4730347074528079494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_6
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1831
+        width: 173
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae53b8bf242492c0800000000000000
+      internalID: -4425872746417529172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1952
+        width: 118
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45139f2067c36ec30800000000000000
+      internalID: 4388261364472820052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1935
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e3e28abfb934ab0800000000000000
+      internalID: -5025001254054642147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_9
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1831
+        width: 143
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0420cd887795490800000000000000
+      internalID: -7757037453478575924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_10
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1829
+        width: 235
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ad079ee4047690800000000000000
+      internalID: -7605448447938944915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1829
+        width: 171
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51428bf7d9a4b0da0800000000000000
+      internalID: -5977602040091106283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1829
+        width: 162
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041b2691782190c50800000000000000
+      internalID: 6631852297735549248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_13
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1829
+        width: 157
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0cea82a2e3c95d0800000000000000
+      internalID: -3054498096471949139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_14
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1829
+        width: 164
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81798e353031feca0800000000000000
+      internalID: -5985544474738518248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_15
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1829
+        width: 179
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6842914cf1258bd0800000000000000
+      internalID: -2628657440185235349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_16
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1944
+        width: 118
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aabd1e84a06afc0800000000000000
+      internalID: -3484085953581307378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_17
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1968
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7803be3bf0a5bc80800000000000000
+      internalID: -8307556936665855874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_18
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1970
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49297ab68db2e45e0800000000000000
+      internalID: -1923551782321548652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_19
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 1976
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfb61e0f5ccacc0800000000000000
+      internalID: -3698363555613246444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_20
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1979
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131114c315be139e0800000000000000
+      internalID: -1643273654877744847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_21
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1831
+        width: 178
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2987d4f7912f8fa0800000000000000
+      internalID: -5796377258870994641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_22
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1831
+        width: 191
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdda445ecbb4b5a0800000000000000
+      internalID: -6506369066791674371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_23
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1829
+        width: 186
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4f0303e8b535290800000000000000
+      internalID: -7902872254853090097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_24
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1829
+        width: 189
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5817e7a7cea1a600800000000000000
+      internalID: 477855208016648285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_25
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 1829
+        width: 167
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0cb74a982211c40800000000000000
+      internalID: 5481200196052041954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_26
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1829
+        width: 141
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eaf17fed9d03fd0800000000000000
+      internalID: -2364150252717494682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1911
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d775067fdea02b000800000000000000
+      internalID: 50114563028309885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_28
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 1946
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab53ca46d2a9e90800000000000000
+      internalID: -7018247158894314840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1768
+        width: 152
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756e2c31094174e0800000000000000
+      internalID: -1985725691040209550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1799
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8fbf1876af8620800000000000000
+      internalID: 2778622529969818789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1794
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcfe938862be4a40800000000000000
+      internalID: 5354413168944676092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1502
+        width: 251
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcbca67d2b9b600800000000000000
+      internalID: 484615073198493133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_33
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1586
+        width: 109
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311e3eaa72293b810800000000000000
+      internalID: 1779926976809918739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1630
+        width: 134
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228096e421c97160800000000000000
+      internalID: 7023857458092212782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1673
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb04c26470e25340800000000000000
+      internalID: 4851186539109288945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_36
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1665
+        width: 79
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7fb30855db94930800000000000000
+      internalID: 4128038708383053782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_37
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1495
+        width: 254
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469dc72af7ac90de0800000000000000
+      internalID: -1366338362394486428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_38
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1502
+        width: 197
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611eae3f10f4126f0800000000000000
+      internalID: -711200396342009578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_39
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1485
+        width: 211
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df7c985fc6d2d50800000000000000
+      internalID: 6714142421313649998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_40
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1550
+        width: 579
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd63fe34c9c90de0800000000000000
+      internalID: -1366339167223321143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_41
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1550
+        width: 327
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0b75d766d16a890800000000000000
+      internalID: -7447232607783767815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_42
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1502
+        width: 187
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ebcb1b90e9c5f00800000000000000
+      internalID: 1106933372900130462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1612
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6047b95eda41719e0800000000000000
+      internalID: -1650828001293929466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_44
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1563
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9466b2d844b95c600800000000000000
+      internalID: 487966853368079945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1563
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a100d27475096a0800000000000000
+      internalID: -6444555103557903802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_46
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1592
+        width: 11
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab164ae7e87e11af0800000000000000
+      internalID: -427305890427412038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1432
+        width: 153
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fdf787d684cb610800000000000000
+      internalID: 1638263999466299204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_48
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1432
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b6818122adb9a0800000000000000
+      internalID: -6215633645910706866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_49
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1445
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66328dc40e2a1b640800000000000000
+      internalID: 5094031737778348902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_50
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1346
+        width: 272
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665bb506f50fcb70800000000000000
+      internalID: 8921355941060499047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_51
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1452
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956a3dbdcfc2bee0800000000000000
+      internalID: -1246705664278239850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_52
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1362
+        width: 539
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a0abb3fcbd33c70800000000000000
+      internalID: 8949738567622068791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_53
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 1307
+        width: 540
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861f631265f01d50800000000000000
+      internalID: 6706129646736316045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_54
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 1311
+        width: 505
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f3e0f793c6021f0800000000000000
+      internalID: -1071737717113602226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1056
+        width: 360
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be4131164d0dc1a0800000000000000
+      internalID: -6787754468790153549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1056
+        width: 276
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a731a48358156b0800000000000000
+      internalID: -5309316008885650941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_57
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1326
+        width: 488
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c889319494bb95dc0800000000000000
+      internalID: -3649680099574048628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_58
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1225
+        width: 521
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79811a6cea542fae0800000000000000
+      internalID: -1517073507511363433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_59
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1184
+        width: 448
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00f0df2a4d160b30800000000000000
+      internalID: 4253119102565019659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_60
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1173
+        width: 571
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cacba48bd69e11b0800000000000000
+      internalID: -5683939810127131968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_61
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1149
+        width: 262
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b516080b0754250800000000000000
+      internalID: 5928268387873545105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_62
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 1171
+        width: 241
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef853c360a6719e50800000000000000
+      internalID: 6814358142428862718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_63
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1177
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bdce01fbf4e2ce0800000000000000
+      internalID: -1428116349788562588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 690
+        width: 325
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61fcbac875c6fb40800000000000000
+      internalID: 5473779519703544171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_65
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 690
+        width: 351
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c909a4990228eb0800000000000000
+      internalID: -4719173616777782259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_66
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 690
+        width: 220
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab94c3e2da943000800000000000000
+      internalID: 14806929344076715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_67
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 690
+        width: 193
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e37def84d3fd070800000000000000
+      internalID: 8133286835776863859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_68
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 690
+        width: 275
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0708b29c6ca00eb0800000000000000
+      internalID: -4755611624185264373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_69
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 690
+        width: 332
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e737162394a783410800000000000000
+      internalID: 1457048934250804094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_70
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 690
+        width: 388
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b2973de1cd78370800000000000000
+      internalID: 8324864461172714290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_71
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 690
+        width: 232
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba14fd84b5f21410800000000000000
+      internalID: 1446488586163854013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_72
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 690
+        width: 359
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6a6289c0695e6c0800000000000000
+      internalID: -4114717703696636182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_73
+      rect:
+        serializedVersion: 2
+        x: 3135
+        y: 690
+        width: 369
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cac229bcbf90e7b0800000000000000
+      internalID: -5196978337076819258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_74
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 690
+        width: 244
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d86645eb3948c60800000000000000
+      internalID: 7819537298691100006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_75
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 400
+        width: 407
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f5af447fd74320800000000000000
+      internalID: 2542246205319412031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_76
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 659
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e0d8a82c2435860800000000000000
+      internalID: 7517425606327078472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_77
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 276
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3039717a4b98a1630800000000000000
+      internalID: 3898579836433044227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_78
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 224
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794c457c2c0edcbb0800000000000000
+      internalID: -4914024491218844521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_79
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 224
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1029228e6a1aed150800000000000000
+      internalID: 5899330300133151233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_80
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 226
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c2d82335f4ac440800000000000000
+      internalID: 4956861558623644823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_81
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 208
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95a31db8fa3055a0800000000000000
+      internalID: -6534658219316107873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_82
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 215
+        width: 268
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ffc079d6c6fb640800000000000000
+      internalID: 5097912521148137308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_83
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 215
+        width: 371
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088072ce1bd6f7dd0800000000000000
+      internalID: -2486147858346604416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_84
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 198
+        width: 203
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc45d948397bd100800000000000000
+      internalID: 133833896601406664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_85
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 235
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c947a111b533ee30800000000000000
+      internalID: 4531524684686510533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_86
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 196
+        width: 470
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc552126ac789080800000000000000
+      internalID: -9180450787432243981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_87
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 184
+        width: 35
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2d9edabcabb7e30800000000000000
+      internalID: 4502397636445852373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_88
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 163
+        width: 312
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315e028c8c4b80db0800000000000000
+      internalID: -4825408226283428589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_89
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 198
+        width: 309
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e549020f94dbf7030800000000000000
+      internalID: 3494719961121723486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_90
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2
+        width: 277
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937458f2c0e44ac10800000000000000
+      internalID: 2063860343486367545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_91
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 178
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a349a8ab62210000800000000000000
+      internalID: 319320763220901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_92
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 178
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc075e1cd46f61b0800000000000000
+      internalID: -5661195310016819979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_93
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 97
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e0cb3869243570800000000000000
+      internalID: 8445420728882357061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_94
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 44
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe186b79da71d240800000000000000
+      internalID: 4814764551132684023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_95
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 59
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23245dd187ad0afc0800000000000000
+      internalID: -3485545902153317838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_96
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 90
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631993fbb33cd890800000000000000
+      internalID: -7432008402729364632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_97
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 92
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f84febd417ac0b0800000000000000
+      internalID: -5707624999008563412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_98
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 90
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371fdc95b260c9140800000000000000
+      internalID: 4727660492092207475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_99
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 90
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4fef25de887f270800000000000000
+      internalID: 8284240592452383997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_100
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 29
+        width: 53
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adc570fe4752470800000000000000
+      internalID: 8369224052507466370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_101
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 29
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851097fd970f529b0800000000000000
+      internalID: -5105410196323630760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_102
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 29
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec9db30debf98e30800000000000000
+      internalID: 4506409897549470958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_103
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 29
+        width: 51
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8d3a64de69cd80800000000000000
+      internalID: -8229924985448330726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_104
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 0
+        width: 237
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff9a87e83d8e5830800000000000000
+      internalID: 4061839189477072892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_105
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 75
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3669c9d2f1097870800000000000000
+      internalID: 8680971899280909886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_106
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 72
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ff765623519580800000000000000
+      internalID: -8822178770917001460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_107
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 75
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5f6724c424261a0800000000000000
+      internalID: -6817813990585469484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_108
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 55
+        width: 95
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0943dd22f5e6140800000000000000
+      internalID: 4714810463248224438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_109
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 62
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85758c21d6657d6d0800000000000000
+      internalID: -2965806803133638824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PngJoy_classic-agent-venom-sprite-sheet-hd-png-download_7777441_110
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 59
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de1618786f92380800000000000000
+      internalID: -8995387718844158567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
